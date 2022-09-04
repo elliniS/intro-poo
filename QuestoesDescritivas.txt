@@ -1,0 +1,11 @@
+1.Descreva, com as suas próprias palavras, o que é Classe.
+     R = Classes são tipos abstratos de dados, podendo conter métodos e atributos, servindo para criar tipos personalizados de dados.
+
+2.Diferencie, com as suas próprias palavras, Classe de Objeto.
+     R = Classe é o que formata e defini um objeto, já objeto é a variável em si 
+ 
+3.O que é instância de uma Classe?
+     R = É criar uma variável com o tipo de uma classe
+
+4.O que são atributos e por que, em Orientação a Objetos, devemos encapsulá-los?
+     R = Atributos são variáveis pertencentes a uma classe, elas devem ser encapsuladas por questões de segurança
